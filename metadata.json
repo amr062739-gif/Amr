@@ -1,0 +1,7 @@
+{
+  "name": "TecnoSoft Manager Pro",
+  "description": "A professional Arabic student and course management system featuring QR attendance, financial reporting, and automated backup.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
